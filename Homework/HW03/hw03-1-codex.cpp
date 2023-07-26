@@ -14,5 +14,5 @@ int main() {
         }
         printf( "ok" ) ;
     }
-    return 0 ;
+    return 0;
 }
