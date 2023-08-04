@@ -1,6 +1,5 @@
 //TODO: #8 Arrange this C coding into CODEX pattern.
-#include <stdio.h>
-#include <conio.h>
+#include<stdio.h>
 int main() {
     int a = 10 ;
     int b = 20, c = 30, d = 40 ;
